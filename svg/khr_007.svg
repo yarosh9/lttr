@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1080 1920"
+   width="1080"
+   height="1920"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg" >
+  <defs>
+<linearGradient
+   spreadMethod="reflect"
+   id="linearGradient1381">
+  <stop style="stop-color:#110000;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#110000;stop-opacity:1" offset="0.500" />
+  <stop style="stop-color:#110000;stop-opacity:0" offset="0.500" />
+  <stop style="stop-color:#110000;stop-opacity:0" offset="1.000" />
+</linearGradient>
+<linearGradient
+   spreadMethod="reflect"
+   id="linearGradient1">
+  <stop style="stop-color:#aa0000;stop-opacity:1" offset="0.000" />
+  <stop style="stop-color:#000000;stop-opacity:1" offset="1.000" />
+</linearGradient>
+    <linearGradient id="linearGradient875">
+      <stop style="stop-color:#000000;stop-opacity:0" offset="0.000" />
+      <stop style="stop-color:#000000;stop-opacity:0" offset="0.910" />
+      <stop style="stop-color:#0000ff;stop-opacity:1" offset="0.920" />
+      <stop style="stop-color:#ff00ff;stop-opacity:1" offset="0.930" />
+      <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.935" />
+      <stop style="stop-color:#ff9900;stop-opacity:1" offset="0.940" />
+      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.960" />
+      <stop style="stop-color:#00ff00;stop-opacity:1" offset="0.970" />
+      <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.980" />
+      <stop style="stop-color:#0000ff;stop-opacity:1" offset="0.990" />
+      <stop style="stop-color:#0000ff;stop-opacity:0" offset="0.999" />
+      <stop style="stop-color:#000000;stop-opacity:0" offset="1.000" />
+    </linearGradient>
+    <linearGradient id="linearGradient87b">
+      <stop style="stop-color:#000000;stop-opacity:0" offset="0.00" />
+      <stop style="stop-color:#000000;stop-opacity:0" offset="0.10" />
+      <stop style="stop-color:#0000ff;stop-opacity:1" offset="0.20" />
+      <stop style="stop-color:#ff00ff;stop-opacity:1" offset="0.30" />
+      <stop style="stop-color:#ff0000;stop-opacity:1" offset="0.35" />
+      <stop style="stop-color:#ff9900;stop-opacity:1" offset="0.40" />
+      <stop style="stop-color:#ffff00;stop-opacity:1" offset="0.60" />
+      <stop style="stop-color:#00ff00;stop-opacity:1" offset="0.70" />
+      <stop style="stop-color:#00ffff;stop-opacity:1" offset="0.80" />
+      <stop style="stop-color:#0000ff;stop-opacity:1" offset="0.90" />
+      <stop style="stop-color:#0000ff;stop-opacity:0" offset="0.99" />
+      <stop style="stop-color:#000000;stop-opacity:0" offset="1.000" />
+    </linearGradient>
+     <linearGradient id="blick111"
+       xlink:href="#linearGradient87b"
+        x1="0"
+        y1="1"
+        x2="0"
+        y2="0" >
+      </linearGradient>
+
+
+    <linearGradient
+       xlink:href="#linearGradient1"
+       x1="0"
+       y1="1"
+       x2="0"
+       y2="0"
+       id="linearGradient2"
+       spreadMethod="reflect">
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient1381"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       cx="540"
+       cy="490"
+       fx="540"
+       fy="490"
+       r="12"
+       id="radial2" />
+    <radialGradient
+       xlink:href="#linearGradient1381"
+       gradientUnits="userSpaceOnUse"
+       cx="540"
+       cy="990"
+       fx="540"
+       fy="990"
+       r="12"
+       id="radial3" />
+    <radialGradient
+       xlink:href="#linearGradient1381"
+       gradientUnits="userSpaceOnUse"
+       cx="540"
+       cy="690"
+       fx="540"
+       fy="690"
+       r="150"
+       id="radial4" />
+    <radialGradient
+       xlink:href="#linearGradient1"
+       gradientUnits="userSpaceOnUse"
+       cx="540"
+       cy="890"
+       fx="540"
+       fy="990"
+       r="150"
+       id="radial1" />
+    <radialGradient
+       xlink:href="#linearGradient875"
+       gradientUnits="userSpaceOnUse"
+       cx="545"
+       cy="680"
+       fx="545"
+       fy="770"
+       r="136"
+       id="radial31" />
+
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-2"
+       y="-2"
+       width="10"
+       height="10">
+      <feGaussianBlur stdDeviation="3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter2202"
+       x="-0.6"
+       y="-0.6"
+       width="2"
+       height="2">
+      <feGaussianBlur stdDeviation="33" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5"
+       x="-2"
+       y="-2"
+       width="10"
+       height="10">
+      <feGaussianBlur stdDeviation="33" />
+    </filter>
+  </defs>
+  <rect
+     style="fill:url(#linearGradient2);fill-opacity:1;stroke:none"
+     width="1080"
+     height="1920"
+     x="0"
+     y="0" />
+  
+  <rect
+     style="fill:url(#radial4);fill-opacity:0.4;stroke:none"
+     width="1080"
+     height="1920"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#radial3);fill-opacity:0.4;stroke:none"
+     width="1080"
+     height="1920"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#radial2);fill-opacity:0.4;stroke:none"
+     width="1080"
+     height="1920"
+     x="0"
+     y="0" />
+  <rect
+     style="fill:url(#radial1);fill-opacity:0.4;stroke:none"
+     width="1080"
+     height="1920"
+     x="0"
+     y="0" />
+
+  <rect
+     style="fill:url(#blick111);fill-opacity:0.52;stroke:none;filter:url(#filter5)"
+     width="40"
+     height="1540"
+     x="520"
+     y="0" />   
+  <circle
+     style="fill:#000000;fill-opacity:0.8;stroke-width:0;filter:url(#filter2202)"
+     cx="544"
+     cy="630"
+     r="130" />     
+  <rect
+     style="fill:url(#radial31);fill-opacity:1;stroke:none;filter:url(#filter4)"
+     width="1080"
+     height="1920"
+     x="0"
+     y="0" /> 
+
+
+
+  <path
+     style="opacity:0.9;fill:#ff0000;stroke:none"
+     d="m 541.76375,589.76227 c -4.73942,-0.0236 -9.25751,2.74147 -11.24343,7.37115 -2.64764,6.17323 0.20983,13.32414 6.38297,15.97199 6.1735,2.64777 13.32431,-0.21094 15.97195,-6.38446 2.64741,-6.17335 -0.21042,-13.32367 -6.38368,-15.9712 -1.54326,-0.66181 -3.14792,-0.97959 -4.72781,-0.98748 z m -7.18553,6.43336 c 2.22727,0.0321 5.30465,0.80247 8.50995,2.2521 5.69871,2.57725 9.64375,6.32611 8.81202,8.37337 -0.83138,2.04774 -6.12632,1.61741 -11.82562,-0.9603 -5.69907,-2.5776 -9.64399,-6.32642 -8.81119,-8.37338 0.36406,-0.89552 1.5825,-1.31681 3.31484,-1.29179 z m 52.84091,4.48013 c 0,0 -2.48844,3.78533 -15.98831,3.78533 -13.49975,0 -32.05391,21.48498 -31.54806,32.95552 5.37982,-7.50468 9.53705,-16.52918 22.93864,-16.66601 13.40172,-0.13684 24.52897,-12.40658 24.59773,-20.07484 z m -70.61396,3.58583 -6.03124,16.2895 c 0.19098,-0.0185 0.37509,-0.0264 0.56358,-0.0411 15.24548,-1.19344 22.56498,9.49368 28.2254,16.90668 -1.0642,-10.70225 -9.48904,-30.05364 -21.95434,-32.98658 -0.26626,-0.0627 -0.53335,-0.12102 -0.8034,-0.16845 z m -12.34664,33.39724 -4.08729,10.96939 -7.79037,20.91015 c 2.26521,37.87873 13.83607,102.43365 36.11204,123.63195 C 508.13553,762.15033 498.04474,692.65704 499.4148,653.53223 l 31.86873,-0.0916 c -3.55323,7.03718 -8.6087,27.00644 -8.44404,45.27804 30.75048,-14.97783 47.18796,2.73323 54.61249,9.28556 -4.75566,-14.84044 -35.11872,-49.1145 -53.03497,-11.96231 -1.23634,-9.688 12.26164,-39.44231 19.37842,-42.53452 l 29.34639,-0.0667 c 1.80229,28.13588 6.55013,62.28364 8.61404,90.40159 l -0.11949,-90.38917 5.76652,-15.53103 -82.75338,-0.26241 z m 39.32208,74.16643 c -7.80851,-0.21126 -14.8301,4.99407 -19.33408,19.09746 27.92797,-12.83937 46.66457,2.77696 56.9282,10.96782 -9.37855,-14.31672 -24.5797,-29.7132 -37.59412,-30.06528 z" />
+</svg>
