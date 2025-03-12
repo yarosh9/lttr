@@ -2,7 +2,7 @@
 
 Using gradients in posters, flyers, and postcards with various letters and symbols. All files are vector-based and can be transformed to the desired size.
 
-![Preview](1324123.jpg)  
+![Preview](aaaaaaaa.jpg)  
 
 ## Content
 
