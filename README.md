@@ -24,7 +24,7 @@ Many thanks to the **MDN team** and their gradients section, which inspired me t
 * [SVG on MDN](https://developer.mozilla.org/en-US/docs/Web/SVG)
 * [SVG Gradients on MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Gradients)
 
-Great appreciation to **Chögyal Namkhai Norbu**, whose works and philosophy have inspired and continue to inspire!
+Great appreciation to **Chögyal Namkhai Norbu**, whose teaching and philosophy have inspired and continue to inspire!
 
 * [Chögyal Namkhai Norbu on dzogchen.net](https://dzogchen.net/teacher/)
 
