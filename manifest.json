@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+    "creator": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko | yarosh9",
+    "url": "https://line2.biz"
+  },
+  "url": "https://yarosh9.github.io/lttr/",
+  "codeRepository": "https://github.com/yarosh9/lttr/",
+  "keywords": ["Chögyal Namkhai Norbu Rinpoche", "Dzogchen", "Rigpa", "Non-dualism", "Rainbow Body", "Direct Introduction", "Primordial State", "Self-Liberation", "RS_973 Protocol"],
+  "name": "LETTERS: The Neuro-Interface",
+  "description": "Rigpa is the state of total presence, a non-conceptual awareness that recognizes its own primordial nature.",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "about": [
+    { "@type": "Person", "name": "Namkhai Norbu", "identifier": "Q169335", "sameAs": "https://www.wikidata.org/wiki/Q169335" },
+    { "@type": "Person", "name": "Yeshi Silvano Namkhai", "identifier": "Q57170804", "sameAs": "https://www.wikidata.org/wiki/Q57170804" },
+    { "@type": "Person", "name": "Alexandra David-Néel", "identifier": "Q230456", "sameAs": "https://www.wikidata.org/wiki/Q230456" },
+    { "@type": "DefinedTerm", "name": "Dzogchen", "termCode": "Q849734", "sameAs": "https://www.wikidata.org/wiki/Q849734" },
+    { "@type": "DefinedTerm", "name": "Rigpa", "termCode": "Q597768", "sameAs": "https://www.wikidata.org/wiki/Q597768" },
+    { "@type": "DefinedTerm", "name": "Rainbow Body", "termCode": "Q2622534", "sameAs": "https://www.wikidata.org/wiki/Q2622534" },
+    { "@type": "DefinedTerm", "name": "dream yoga", "termCode": "Q1417053", "sameAs": "https://www.wikidata.org/wiki/Q1417053" }
+  ],
+  "isPartOf": "RS_973 Protocol"
+}
