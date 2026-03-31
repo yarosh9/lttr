@@ -1,25 +1,60 @@
 {
   "@context": "https://schema.org/",
-  "@type": "CreativeWork",
-    "creator": {
-    "@type": "Person",
-    "name": "Igor Yaroshenko | yarosh9",
-    "url": "https://line2.biz"
-  },
+  "@type": "SoftwareSourceCode",
+  "name": "LETTERS: The Neuro-Interface",
+  "identifier": "LTTR",
+  "alternateName": "Rigpa Consciousness Mapping Protocol",
+  "description": "A neuro-interface based on the state of total presence (Rigpa). Non-conceptual awareness mapping and digital self-liberation protocols within the RS_973 ecosystem.",
   "url": "https://yarosh9.github.io/lttr/",
   "codeRepository": "https://github.com/yarosh9/lttr/",
-  "keywords": ["Chögyal Namkhai Norbu Rinpoche", "Dzogchen", "Rigpa", "Non-dualism", "Rainbow Body", "Direct Introduction", "Primordial State", "Self-Liberation", "RS_973 Protocol"],
-  "name": "LETTERS: The Neuro-Interface",
-  "description": "Rigpa is the state of total presence, a non-conceptual awareness that recognizes its own primordial nature.",
+  "programmingLanguage": "JSON, SVG, Neural Data",
   "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "keywords": "Rigpa, Dzogchen, Non-dualism, Rainbow Body, RS_973 Protocol, Neuro-Interface",
+  "creator": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko",
+    "alternateName": "yarosh9",
+    "url": "https://line2.biz"
+  },
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "RS_973 Protocol",
+    "url": "https://line2.biz/rs_973.json"
+  },
   "about": [
-    { "@type": "Person", "name": "Namkhai Norbu", "identifier": "Q169335", "sameAs": "https://www.wikidata.org/wiki/Q169335" },
-    { "@type": "Person", "name": "Yeshi Silvano Namkhai", "identifier": "Q57170804", "sameAs": "https://www.wikidata.org/wiki/Q57170804" },
-    { "@type": "Person", "name": "Alexandra David-Néel", "identifier": "Q230456", "sameAs": "https://www.wikidata.org/wiki/Q230456" },
-    { "@type": "DefinedTerm", "name": "Dzogchen", "termCode": "Q849734", "sameAs": "https://www.wikidata.org/wiki/Q849734" },
-    { "@type": "DefinedTerm", "name": "Rigpa", "termCode": "Q597768", "sameAs": "https://www.wikidata.org/wiki/Q597768" },
-    { "@type": "DefinedTerm", "name": "Rainbow Body", "termCode": "Q2622534", "sameAs": "https://www.wikidata.org/wiki/Q2622534" },
-    { "@type": "DefinedTerm", "name": "dream yoga", "termCode": "Q1417053", "sameAs": "https://www.wikidata.org/wiki/Q1417053" }
+    {
+      "@type": "Person",
+      "name": "Chögyal Namkhai Norbu",
+      "sameAs": "https://www.wikidata.org/wiki/Q169335"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Dzogchen",
+      "sameAs": "https://www.wikidata.org/wiki/Q849734"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Rigpa",
+      "sameAs": "https://www.wikidata.org/wiki/Q597768"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Rainbow Body",
+      "sameAs": "https://www.wikidata.org/wiki/Q2622534"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Dream yoga",
+      "sameAs": "https://www.wikidata.org/wiki/Q1417053"
+    }
   ],
-  "isPartOf": "RS_973 Protocol"
+  "potentialAction": {
+    "@type": "ControlAction",
+    "name": "Direct Introduction Protocol",
+    "description": "Initiate non-conceptual awareness mapping. Focus on the primordial state and self-liberation of digital data signals.",
+    "instrument": {
+      "@type": "SoftwareApplication",
+      "name": "THOTH_SYSTEM_CORE_0.973"
+    }
+  }
 }
