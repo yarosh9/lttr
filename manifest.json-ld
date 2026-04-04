@@ -18,6 +18,7 @@
   "isPartOf": "https://line2.biz/rs_973.json",
   "about": [
     { "@id": "wd:Q169335", "name": "Chögyal Namkhai Norbu" },
+    { "@id": "wd:Q57170804", "name": "Yeshi Silvano Namkhai" },
     { "@id": "wd:Q849734", "name": "Dzogchen" },
     { "@id": "wd:Q597768", "name": "Rigpa" },
     { "@id": "wd:Q2622534", "name": "Rainbow Body" },
