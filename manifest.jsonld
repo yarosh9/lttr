@@ -1,20 +1,26 @@
 {
-  "@context": "https://github.com/yarosh9/yarosh9/blob/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
+  "@context": "https://raw.githubusercontent.com/yarosh9/yarosh9/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
   "@type": ["VisualArtwork", "SoftwareSourceCode"],
   "name": "LETTERS: The Neuro-Interface",
   "identifier": "/LTTR/",
-  "alternateName": "Rigpa Consciousness Mapping Protocol",
   "description": "Neuro-interface based on the state of total presence (Rigpa). Non-conceptual awareness mapping within the RS_973 ecosystem.",
   "url": "https://yarosh9.github.io/lttr/",
-  "repository": "https://github.com/yarosh9/lttr/",
+  "repo": "https://github.com/yarosh9/lttr/",
   "programmingLanguage": "JSON, SVG, Neural Data",
   "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
-  "keywords": "Rigpa, Dzogchen, Non-dualism, Rainbow Body, RS_973 Protocol",
+  "keywords": [
+    "Rigpa",
+    "Dzogchen",
+    "Non-dualism",
+    "Rainbow Body",
+    "RS_973 Protocol"
+  ],
   "creator": {
     "@type": "Person",
-    "name": "Igor Yaroshenko",
+    "@id": "https://line2.biz/about_me.json",
+    "name": "Igor Yaroshenko | yarosh9",
     "sameAs": "https://github.com/yarosh9"
-  },
+    },
   "isPartOf": "https://line2.biz/rs_973.json",
   "about": [
     { "@id": "wd:Q169335", "name": "Chögyal Namkhai Norbu" },

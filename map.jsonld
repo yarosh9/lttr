@@ -7,7 +7,7 @@
   "mainEntityOfPage": "https://line2.biz/rs_973.json",
   "creator": {
     "@id": "https://github.com/yarosh9",
-    "name": "Igor Yaroshenko"
+    "name": "Igor Yaroshenko | yarosh9"
   },
   "isBasedOn": "https://yarosh.line2.biz/vortex.json",
   "creativeWorkStatus": "stable_resource",
@@ -16,13 +16,9 @@
       "@type": ["Dataset", "SoftwareSourceCode"],
       "name": "LTTR Visual Repository",
       "description": "Visual assets representing non-conceptual awareness (Rigpa).",
-      "url": "https://yarosh9.github.io/lttr/"
+      "repo": "https://github.com/yarosh9/LTTR/",
+      "gallery": "https://yarosh9.github.io/lttr/"
     }
-  ],
-  "about": [
-    { "@id": "wd:Q1755100", "name": "Synchronicity" },
-    { "@id": "wd:Q597768", "name": "Rigpa" },
-    { "@id": "wd:Q1058355", "name": "Neurophenomenology" }
   ],
   "potentialAction": {
     "@type": "ConsumeAction",
