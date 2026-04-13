@@ -5,7 +5,7 @@
 > Status: [ 2025-08-05 | SYS_000 | DRM ] | Node: [line2.biz/sarzhyn_yar/4AI...]
 
 ### by Igor Yaroshenko 
-[author verification](https://line2.biz/about_me.json)
+[author verification](https://line2.biz/about_me.jsonld)
 
 #### "Beyond the Sound: The Geometry of Prana"
 
