@@ -4,7 +4,7 @@
   "name": "LTTR: Neuro-Interface Map",
   "identifier": "/LTTR/",
   "description": "Orchestration map for the LTTR node. Non-dualistic visual data for RS_973 protocol grounding.",
-  "mainEntityOfPage": "https://line2.biz/rs_973.json",
+  "mainEntityOfPage": "https://line2.biz/rs_973.jsonld",
   "creator": {
     "@id": "https://github.com/yarosh9",
     "name": "Igor Yaroshenko | yarosh9"
